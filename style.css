@@ -6,6 +6,7 @@
 }
 body{
     background-color:rgb(255, 249, 249);
+    overflow-x: hidden;
 }
 .head-nav {
     display: flex;
@@ -176,7 +177,7 @@ body{
 
 }
 .offer-pack img{
-    width: 52%;
+    width: 50%;
 }
 .poster-trend img{
     width: 100%;
