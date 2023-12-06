@@ -22,7 +22,7 @@ body{
 
 }
 .nav-right a{
-    margin-right: 25px;
+    margin-right: 80px;
     text-decoration: none;
     color: rgba(0,0,0,.8);
     font-size: 8px;
@@ -120,7 +120,7 @@ body{
 .add-img img{
     cursor: pointer;
     margin-right:8px;
-    width: 388px;
+    width: 520px;
 }
 .cards{
     display: flex;
@@ -128,7 +128,7 @@ body{
      margin-left: 135px;
 }
 .cards img{
-    width: 100px;
+    width: 120px;
     margin-right: 20px;
 }
 .card-content p{
@@ -146,7 +146,7 @@ body{
     margin-bottom: 10px;
 }
 .poster-add img{
-    width: 588px;
+    width: 759px;
     cursor: pointer;
 }
 .trending-card{
@@ -159,7 +159,7 @@ body{
     display: flex;
 }
 .card img{
-    width: 198px;
+    width: 258px;
     cursor: pointer;
 }
 .card1{
@@ -178,7 +178,7 @@ body{
 
 }
 .offer-pack img{
-    width: 200px;
+    width: 50%;
 }
 .poster-trend img{
     width: 100%;
